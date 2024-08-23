@@ -61,7 +61,7 @@ document.getElementById("myButton17").onclick = function () {
   location.href = "https://www.linkedin.com/in/raahul-krishna-durairaju-bb68b1246/";
 };
 document.getElementById("myButton18").onclick = function () {
-  location.href = "https://ijcrt.org/papers/IJCRT2309456.pdf";
+  location.href = "https://www.ijcrt.org/viewfull.php?&p_id=IJCRT2309456";
 };
 
 

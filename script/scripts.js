@@ -58,7 +58,7 @@ document.getElementById("myButton16").onclick = function () {
   location.href = "https://github.com/RAAHUL-tech/";
 };
 document.getElementById("myButton17").onclick = function () {
-  location.href = "https://www.linkedin.com/in/raahul-krishna-durairaju-bb68b1246/";
+  location.href = "www.linkedin.com/in/raahulkrishna";
 };
 document.getElementById("myButton18").onclick = function () {
   location.href = "https://www.ijcrt.org/viewfull.php?&p_id=IJCRT2309456";

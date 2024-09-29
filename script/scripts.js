@@ -46,7 +46,7 @@ document.getElementById("myButton12").onclick = function () {
   location.href = "https://github.com/RAAHUL-tech/Electronic-Shop";
 };
 document.getElementById("myButton13").onclick = function () {
-  location.href = "www.linkedin.com/in/raahulkrishna";
+  location.href = "https://www.linkedin.com/in/raahulkrishna/";
 };
 document.getElementById("myButton14").onclick = function () {
   location.href = "instagram.";
@@ -58,7 +58,7 @@ document.getElementById("myButton16").onclick = function () {
   location.href = "https://github.com/RAAHUL-tech/";
 };
 document.getElementById("myButton17").onclick = function () {
-  location.href = "www.linkedin.com/in/raahulkrishna";
+  location.href = "https://www.linkedin.com/in/raahulkrishna/";
 };
 document.getElementById("myButton18").onclick = function () {
   location.href = "https://www.ijcrt.org/viewfull.php?&p_id=IJCRT2309456";

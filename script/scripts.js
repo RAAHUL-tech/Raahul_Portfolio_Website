@@ -46,7 +46,7 @@ document.getElementById("myButton12").onclick = function () {
   location.href = "https://github.com/RAAHUL-tech/Electronic-Shop";
 };
 document.getElementById("myButton13").onclick = function () {
-  location.href = "https://www.linkedin.com/in/raahul-krishna-durairaju-bb68b1246/";
+  location.href = "www.linkedin.com/in/raahulkrishna";
 };
 document.getElementById("myButton14").onclick = function () {
   location.href = "instagram.";
